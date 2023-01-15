@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624069285643",
+    "project_id": "groupchat-ba3e7",
+    "storage_bucket": "groupchat-ba3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624069285643:android:2efb4338123f779bae740e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624069285643-6hau9eqb2kv03cm0qca2hor4ag9b7vpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7fGiU37_hII0CfxikCLA53poAxJeoHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624069285643-6hau9eqb2kv03cm0qca2hor4ag9b7vpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
